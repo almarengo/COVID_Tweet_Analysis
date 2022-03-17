@@ -41,3 +41,4 @@ We will use tweets and the sentiment labels created in Notebook 2 to train a cou
 <br/>
 
 ## Conclusions
+NPL is becoming an important branch of Artificial intelligence (AI) that enables computers to understand human languages and process them in a manner that is valuable. In this project we have just scratched the surface: text cleaning, lemmatization, vectorization, topic modeling and sentiment analysis (pre-trained models and user trained models). Other NLP techniques can be investigated in order to get familiar with as a data scientist. NLP have a lot applications and due to an increase in data and the need to interact with computers, the need for natural language processing is increasing day by day.
