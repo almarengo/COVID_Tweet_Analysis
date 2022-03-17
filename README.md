@@ -1,6 +1,5 @@
-# COVID_Tweet_Analysis
-# COVID Tweet Analysis 
-![]()  **WORD CLOUD HERE**
+
+![](images/wordcloud.jpg)  
 
 
 
